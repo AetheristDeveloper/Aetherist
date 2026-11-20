@@ -53,27 +53,27 @@ local GAMES = {
     {
         Name     = "Entrenched WW1",
         PlaceIds = { 3678761576 },  -- roblox.com/games/3678761576/ENTRENCHED
-        URL      = "https://raw.githubusercontent.com/HolexDeveloper/Aetherist/refs/heads/main/Scripts/Entrenched.lua",
+        URL      = "https://raw.githubusercontent.com/AetheristDeveloper/Aetherist/refs/heads/main/Scripts/Entrenched.lua",
     },
     {
         Name     = "FPV Drone Battlefield",
         PlaceIds = { 100661692738190 },  -- roblox.com/games/100661692738190/FPV-Drone-Battlefield
-        URL      = "https://raw.githubusercontent.com/HolexDeveloper/Aetherist/refs/heads/main/Scripts/FPVdronebattlefield.txt",
+        URL      = "https://raw.githubusercontent.com/AetheristDeveloper/Aetherist/refs/heads/main/Scripts/FPVdronebattlefield.txt",
     },
     {
         Name     = "House of the Locust",
         PlaceIds = { 86247128610772 },  -- roblox.com/games/86247128610772/House-of-The-Locust
-        URL      = "https://raw.githubusercontent.com/HolexDeveloper/Aetherist/refs/heads/main/Scripts/Houseofthelocust.lua",
+        URL      = "https://raw.githubusercontent.com/AetheristDeveloper/Aetherist/refs/heads/main/Scripts/Houseofthelocust.lua",
     },
     {
         Name     = "Monochrome",
         PlaceIds = { 134208374070897 },  -- roblox.com/games/134208374070897/MONOCHROME
-        URL      = "https://raw.githubusercontent.com/HolexDeveloper/Aetherist/refs/heads/main/Scripts/monochrome.lua",
+        URL      = "https://raw.githubusercontent.com/AetheristDeveloper/Aetherist/refs/heads/main/Scripts/monochrome.lua",
     },
     {
         Name     = "Aisles Of The Locust",
         PlaceIds = { 134728380684025 },  -- roblox.com/games/134728380684025/Aisles-Of-The-Locust
-        URL      = "https://raw.githubusercontent.com/HolexDeveloper/Aetherist/refs/heads/main/Scripts/AOFL.lua",
+        URL      = "https://raw.githubusercontent.com/AetheristDeveloper/Aetherist/refs/heads/main/Scripts/AOFL.lua",
     },
 }
 
@@ -81,7 +81,7 @@ local GAMES = {
 local UNIVERSAL = {
     Name        = "Universal (any game)",
     PlaceIds    = {},
-    URL         = "https://raw.githubusercontent.com/HolexDeveloper/Aetherist/refs/heads/main/Scripts/Universal.lua",
+    URL         = "https://raw.githubusercontent.com/AetheristDeveloper/Aetherist/refs/heads/main/Scripts/Universal.lua",
     IsUniversal = true,
 }
 
